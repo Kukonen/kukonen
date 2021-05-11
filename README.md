@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kukonen
+- 👀 I’m interested in site building
+- 🌱 I’m currently learning react and node js
+- 📫 How to reach me evgeniy.kukonen.1337@gmail.com
